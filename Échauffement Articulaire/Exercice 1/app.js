@@ -1,3 +1,5 @@
+/*Écrivez un programme qui vérifie si un nombre est pair ou impair.*/
+
 function  PairorNot(nombre){
     if (nombre%2 ==0){
         console.log(nombre + " est un nombre pair")
